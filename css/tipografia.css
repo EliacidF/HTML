@@ -1,0 +1,17 @@
+body { 
+    font-family:  Arial, sans-serif, Helvetica;
+}
+h1 { 
+    font-family: "Times New Roman", Arial;
+    font-size:20px;
+    font-style: normal;
+    font-weight: normal;
+    color: skyblue;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+
+}
+p { 
+    text-align: left;
+ }

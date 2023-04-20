@@ -1,0 +1,27 @@
+@font-face {
+    font-family:"CormorantSC-Bold" ;
+    src: url('Fonts/CormorantSC-Bold.ttf');
+} 
+@font-face {
+    font-family:"CormorantSC-Light" ;
+    src: url('Fonts/CormorantSC-Light.ttf');
+} 
+@font-face {
+    font-family:"CormorantSC-Medium" ;
+    src: url('Fonts/CormorantSC-Medium.ttf');
+} 
+@font-face {
+    font-family:"CormorantSC-SemiBold" ;
+    src: url('CormorantSC-SemiBold.ttf');
+} 
+@font-face {
+    font-family:"CormorantSC-Bold" ;
+    src: url('Fonts/CormorantSC-Bold.ttf');
+} 
+
+body {
+    font-family: "CormorantSC-Bold";
+}
+H1 {
+    font-weight: normal;
+}

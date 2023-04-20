@@ -1,0 +1,38 @@
+head, h2{
+    background: #000;
+    color: aqua;
+    text-align: right;
+}
+
+head, h1{
+text-align: center;
+color: #000;
+}
+head, h3{
+    background-color: #000;
+ }
+body {
+    background: #fff;
+}
+td, th {
+   background: #ccc;
+   margin: auto;
+   padding: auto;
+ }
+td{
+    border-style: dashed;
+    width: 30mm;
+    height: 30mm;
+}
+
+th {
+    border: blue solid 1px;
+    
+}
+table {
+    width:90% ;
+    margin: auto;
+}
+p {
+    border: #000 solid 1px;
+}

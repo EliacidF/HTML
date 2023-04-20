@@ -1,0 +1,147 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    
+}
+h1{
+    text-align: center;
+}
+H2{
+    text-align: center;
+    background: #000;
+    color: #fff;
+}
+h3{
+    text-align: center;
+    border: #000 solid 4PX;
+    background: #17181C;
+    color: #fff;
+}
+
+/*                                 Header                                  */
+header{
+    background: #000;
+    color: #fff;  
+}
+header .horizontal {
+    
+    background-color:#17181C;
+    text-align: center;
+}
+nav ul {
+    list-style: none;
+    display: inline-block;
+    padding:18px; 
+}
+nav ul li {
+    float: left;
+    margin-top: 20px;
+}
+nav ul li a {
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 18px;
+}
+  nav ul li:hover {
+    background: #82E0AA;
+    color: #000;
+} 
+
+/*                                 Asider                                  */
+aside{
+    background: #000;
+    float: left;
+    width: 5cm;
+    height: 20%;
+}
+aside nav{
+    width: 5%;
+    display:flex;
+    margin: 5mm;
+    
+    
+}
+aside nav ul{
+    display:block;
+    float:left;
+    padding: 5mm;
+}
+aside nav ul li a {
+    display: block; 
+    padding: 2mm;
+    color: #fff;
+    text-decoration: none;
+  }
+/*                                 section                                 */
+section {
+    float:none;
+    width:auto;
+    height: auto;
+}
+section article {
+    width: 10cm;
+    height: 16cm;
+    min-width: 10mm;
+    min-height: 20mm;
+    margin: 2mm;
+    display: flex;
+    float: left;
+    margin-top: 20px;
+    text-align: center;
+    overflow:visible;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    border: #000 solid 1px;
+}
+section article div{
+    border: #000 solid 1px;
+    border-radius: 20%;
+    width: 9cm;
+    height: 9cm;
+    padding: 2mm;
+    margin: 2mm;
+    
+    
+}
+section article div p{
+    text-align: center;
+    color: #000;
+    list-style: none;
+    
+}
+section article div img{
+    border-radius: 20%;
+    width: 5cm;
+    height: 5cm;
+    min-width: 5mm;
+    min-height: 5mm;
+    display:block;
+    margin:auto;
+   
+}
+section article a{
+    color: #000;
+    display: block;
+    list-style: none;
+}
+section article a img{
+    width: 10mm;
+    height: 10mm;
+    display:block;
+    margin:auto;
+}
+
+/*                                 footer                                  */
+footer{
+    background: #000;
+    color: #fff;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+    left: 0;
+    clear: both;
+   
+}

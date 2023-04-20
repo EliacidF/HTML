@@ -1,0 +1,15 @@
+body { 
+font-size: 16px;
+
+}
+
+
+p {
+    font-size: 1.5em;
+ }
+ div{ 
+    width: 100cm;
+    height: 200cm;
+    background: #000000;
+    color:aliceblue;
+ }

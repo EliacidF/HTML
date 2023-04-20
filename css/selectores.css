@@ -1,0 +1,16 @@
+selector universal
+/* *{color: red;} */
+
+h1, h2, h3  {
+	color:blue;
+}
+
+ div article p {
+	font-size: 20px;
+	color: skyblue;
+}N
+div p a {
+	font-size: 20px;
+	color: skyblue;
+}
+.grande {font-size: 40px}

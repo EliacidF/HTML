@@ -1,0 +1,8 @@
+body{
+background: url("img/33.jpg");
+background-repeat: no-repeat;
+background-size:cover;}
+
+/*body {background: url("img/33.jpg"); no-repeat fixed center center;
+background: 500px;*/
+}
